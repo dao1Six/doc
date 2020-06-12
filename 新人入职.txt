@@ -1,0 +1,13 @@
+新人入职资料：
+1、原型管理系统地址，熟悉产品
+【七巧】原型管理系统：
+http://119.29.145.117:8080/prototype/index.html#/login
+帐号：qiqiao  密码：qiqiao@do1
+2、接手运营平台需求，进行测试
+https://qiqiao.do1.com.cn/operation
+账/密：admin/qiqiao2019
+验证码：11111
+
+
+https://www.tapd.cn/49578510/prong/stories/view/1149578510001012508?url_cache_key=89abe15393efbee9be2ae47b7341129d&action_entry_type=story_tree_list
+
